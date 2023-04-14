@@ -397,7 +397,6 @@ justify-content: center;
 margin-top: 72px;
 }
 
-
 .customers-link{
 width: 168px;
 height: 88px;
@@ -408,7 +407,7 @@ padding: 16px 32px;
 display: flex;
 align-items: center;
 justify-content: center;
-fill: #8E8F99;
+fill: #8e8f99;
 }
 
 .customers-link:hover,
