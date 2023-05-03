@@ -442,9 +442,16 @@ clip: rect(0 0 0 0);
 overflow: hidden;
 }
 
+
+
 .portfolio-list {
 display: flex;
 margin-bottom: 72px;
+padding-left: 271px;
+}
+
+.portfolio-item{
+display: block;
 justify-content: center;
 }
 
