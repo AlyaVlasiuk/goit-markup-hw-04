@@ -450,10 +450,7 @@ margin-bottom: 72px;
 padding-left: 271px;
 }
 
-.portfolio-item{
-display: block;
-justify-content: center;
-}
+
 
 .portfolio-item:not(:last-child){
 margin-right: 24px;
@@ -486,10 +483,12 @@ cursor: pointer;
 }
 
 .portfolio-btn{
+display: block;
 padding-left: 24px;
 padding-right: 24px;
 padding-top: 12px;
 padding-bottom: 12px;
+justify-content: center;
 }
 
 .portfolio-btn:hover,
