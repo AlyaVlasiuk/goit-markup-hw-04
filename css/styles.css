@@ -568,6 +568,10 @@ align-items: baseline;
 display: block;
 }
 
+.social-footer-svg{
+fill: #f4f4fd;
+}
+
 .social-footer-list{
 display: flex;
 gap: 16px;
